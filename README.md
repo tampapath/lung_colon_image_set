@@ -8,4 +8,6 @@ The subfolder lung_image_sets contains three secondary subfolders: lung_aca subf
 
 This dataset can be downloaded from the link below:
 
-(link not yet active)
+https://www.dropbox.com/s/luhnutk30qyg3zd/LC25000.zip?dl=0
+
+
