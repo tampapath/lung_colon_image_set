@@ -6,9 +6,11 @@ The subfolder colon_image_sets contains two secondary subfolders: colon_aca subf
 
 The subfolder lung_image_sets contains three secondary subfolders: lung_aca subfolder with 5000 images of lung adenocarcinomas, lung_scc subfolder with 5000 images of lung squamous cell carcinomas, and lung_n subfolder with 5000 images of benign lung tissues.
 
-This dataset can be downloaded from the link below:
+This dataset can be downloaded from the links below:
 
 https://www.dropbox.com/s/luhnutk30qyg3zd/LC25000.zip?dl=0
+
+https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af
 
 If you find this dataset useful and wish to cite it, you can use:
 
